@@ -1,0 +1,30 @@
+
+.display {
+    background-color: #b493d8;
+    padding: 16px;
+    width: 270px;
+    text-align: right;
+    font-size: 20px;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+}
+button {
+    padding: 10px;
+    width: 67px;
+    height: 45px;
+    margin-top: 10px;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    border-bottom-left-radius:10px;
+    border-bottom-right-radius:10px;
+    background-color:#937db5;
+    color: black;
+    font-size: 20px;
+}
+button:hover {
+    cursor: pointer;
+    background-color: #e7d1ff;
+   }
+   button:active {
+    background-color: #e7d1ff;
+   }
